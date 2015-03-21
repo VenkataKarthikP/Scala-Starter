@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Training/src/com/cloudwick/training/scala/Reader.scala&apos; to &apos;Reader1.scala&apos;" description="Rename resource &apos;Reader.scala&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/cloudwick/training/scala/Reader.scala" name="Reader1.scala" stamp="1426215246747" updateReferences="true"/>
+</session>
